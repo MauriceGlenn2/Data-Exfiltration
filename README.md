@@ -24,6 +24,7 @@ I then searched for any signs of **data exfiltration via the network**, but **no
 ---
 
 ## **Response**
+- Immediately isolated the system upon discovering the archiving activities
 - I relayed all findings to **John's manager**, including details about the **PowerShell-automated archiving process** occurring at **regular intervals**.  
 - There was **no evidence of data exfiltration**, but I am standing by for further instructions from management.  
 
